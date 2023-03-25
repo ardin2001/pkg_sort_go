@@ -10,6 +10,8 @@ func InsectionSort(numbers ...int) {
 			}
 		}
 	}
-	fmt.Println(numbers)
 
+	fmt.Println("=======proccess=======")
+	fmt.Println(numbers)
+	fmt.Println("=======done=======")
 }
